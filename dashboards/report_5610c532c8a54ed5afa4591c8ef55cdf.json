@@ -1,0 +1,21 @@
+{
+  "query": "number of searches month on month",
+  "goal": "Exploration",
+  "chart_type": "line",
+  "columns": [
+    "column1",
+    "column2"
+  ],
+  "preview": [
+    {
+      "column1": 1,
+      "column2": "A"
+    },
+    {
+      "column1": 2,
+      "column2": "B"
+    }
+  ],
+  "insight": "Mock summary",
+  "saved_at": "2025-05-04T00:49:32.245930"
+}

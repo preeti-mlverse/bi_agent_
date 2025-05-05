@@ -1,0 +1,15 @@
+streamlit
+pymysql
+sqlalchemy
+slack_sdk
+gspread
+oauth2client
+snowflake-connector-python
+snowflake-sqlalchemy
+python-dotenv
+openai
+anthropic
+langchain==0.1.16
+langchain-community>=0.0.32
+langchain-core>=0.1.0
+plotly
