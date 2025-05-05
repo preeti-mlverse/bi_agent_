@@ -14,3 +14,4 @@ langchain-community>=0.0.32
 langchain-core>=0.1.0
 plotly
 langchain-experimental
+langchain-anthropic
